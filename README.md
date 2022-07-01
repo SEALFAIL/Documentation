@@ -24,7 +24,7 @@ What SEALFAIL is not is a solution to all the aforementioned threats. SEALFAIL i
 
 ## Code of Conduct
 
-Contributors are to follow the code of conduct (COC) located at the root of this repository.
+Contributors are to follow the code of conduct (COC) located at the root of this repository, as well as read the [Post-Meritocracy Manifesto](https://postmeritocracy.org/), of which the SEALFAIL Foundation is a signatory.
 
 ## Contributions
 
