@@ -15,9 +15,13 @@ What SEALFAIL is not is a solution to all the aforementioned threats. SEALFAIL i
 ```
 ./Documentation
 	./Architecture
+		./Storage layout
+			... Overview of the storage configuration
 		... Technical architecture of the SEALFAIL operating system.
 	./Graphics
 		... Graphical source files for the various SEALFAIL logos.
+	./Project overview
+		... Short slideshow showcasing SEALFAIL.
 	./Threat model
 		... Modeled threats SEALFAIL users can encounter.
 ```
