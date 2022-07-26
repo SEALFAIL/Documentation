@@ -42,7 +42,7 @@ Vulpes is the name of the VM used for permanent storage, as well as kernel/memor
 
 **The following repositories contain scripts used to build the RPM packages used by SEALFAIL.**
 
-*	**Path:** `SEALFAIL/rpm-branding`
+*	**Path:** `SEALFAIL/branding`
 
 	**Description:** Customizes GNOME for SEALFAIL branding.
 
